@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Pranjul singh and i am frontend web developer from india
-- 👀 I’m interested in React and core javascript and building out new products
+- 👋 Hi, I’m Pranjul singh and currrently i am frontend web developer from india
+- 👀 currently i’m working with React js 
 - 🌱 I’m currently learning frontend devlopment
 - 💞️ I’m looking to collaborate on open source projects and building new products with my skills 
 - 📫 You can reach me at pranjul021@gmail.com
