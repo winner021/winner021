@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning frontend devlopment
 - 💞️ I’m looking to collaborate on open source projects and building new products with my skills 
 - 📫 You can reach me at pranjul021@gmail.com
+- React js,sass,Html,css,JacaScript,redux,Redux-thunk
 
 
 <!---
