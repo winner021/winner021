@@ -2,7 +2,7 @@
 - 👀 currently i’m working with React js 
 - 🌱 I’m currently learning frontend devlopment
 - 💞️ I’m looking to collaborate on open source projects and building new products with my skills 
-- 📫 You can reach me at pranjul021@gmail.com
+- 📫 You can reach me at pranjul0211@gmail.com
 - React js,sass,Html,css,JacaScript,redux,Redux-thunk
 
 
